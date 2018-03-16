@@ -1,0 +1,2 @@
+npm i gulp --save-dev
+npm i --save-dev gulp-sass gulp-watch gulp-changed gulp-plumber gulp-svg-sprite gulp-file-include gulp-imagemin gulp-clean-css gulp-sourcemaps gulp-concat-css gulp-autoprefixer
